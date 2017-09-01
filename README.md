@@ -1,4 +1,6 @@
-# webpack3-pug
+# Mapzen
+
+Webpack setup based on: https://github.com/mthpvg/webpack3-pug
 
 ## Quick start
 ```bash
